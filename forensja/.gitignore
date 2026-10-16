@@ -1,0 +1,19 @@
+# Dane i wyniki — nigdy do repozytorium (dane osobowe lekarzy, materiał dowodowy)
+wynik_*/
+*.csv
+opis_zdarzen.md
+
+# Paczki Archivarix / bazy / zrzuty HTML
+*.db
+*.sqlite
+.content.*/
+*.html
+
+# Poświadczenia
+*.env
+.env
+creds*
+
+# Python
+__pycache__/
+*.pyc
